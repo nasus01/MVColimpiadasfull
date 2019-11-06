@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC(vista)", "MVC(vista)\MVC(vista).csproj", "{2CB23F77-4F1E-484D-BF6C-5BB54DE99266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MODELO", "MODELO\MODELO.csproj", "{18EF7D4D-6689-4B95-9200-2501109ACEED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CONTROLADOR", "CONTROLADOR\CONTROLADOR.csproj", "{28FFB1D7-164C-497F-AEE1-EC9B3C309BD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CB23F77-4F1E-484D-BF6C-5BB54DE99266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB23F77-4F1E-484D-BF6C-5BB54DE99266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB23F77-4F1E-484D-BF6C-5BB54DE99266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB23F77-4F1E-484D-BF6C-5BB54DE99266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18EF7D4D-6689-4B95-9200-2501109ACEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EF7D4D-6689-4B95-9200-2501109ACEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EF7D4D-6689-4B95-9200-2501109ACEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EF7D4D-6689-4B95-9200-2501109ACEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28FFB1D7-164C-497F-AEE1-EC9B3C309BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FFB1D7-164C-497F-AEE1-EC9B3C309BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FFB1D7-164C-497F-AEE1-EC9B3C309BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FFB1D7-164C-497F-AEE1-EC9B3C309BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {219731D4-ED20-439D-8CFC-38AD5E6B9E14}
+	EndGlobalSection
+EndGlobal
